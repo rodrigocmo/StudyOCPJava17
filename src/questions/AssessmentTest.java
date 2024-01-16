@@ -1,9 +1,15 @@
+package questions;
+
+import java.security.PublicKey;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.stream.IntStream;
 
 public class AssessmentTest {
-    public static void main(String[] args) {
+
+
+    String name;
+    public static void main(String[] args) { // String args[] args is ok
         // Creating a stream of integers
         IntStream stream = IntStream.range(5, 12);
 
@@ -27,4 +33,5 @@ System.out.println("------------");
         System.out.println(data.size());
 
     }
+
 }
