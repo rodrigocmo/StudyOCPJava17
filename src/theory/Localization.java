@@ -1,4 +1,4 @@
-package questions;
+package theory;
 
 import java.awt.*;
 import java.text.DecimalFormat;

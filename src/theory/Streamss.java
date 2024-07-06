@@ -1,4 +1,4 @@
-package questions;
+package theory;
 
 import java.util.IntSummaryStatistics;
 import java.util.List;

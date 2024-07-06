@@ -1,4 +1,4 @@
-package questions;
+package theory;
 
 import java.util.ArrayList;
 import java.util.Arrays;

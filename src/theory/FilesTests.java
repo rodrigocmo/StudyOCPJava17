@@ -1,8 +1,7 @@
-package questions;
+package theory;
 
 import java.io.*;
 import java.nio.file.*;
-import java.util.Arrays;
 
 
 public class FilesTests {

@@ -1,9 +1,4 @@
-package questions;
-
-import com.sun.tools.javac.Main;
-import jdk.dynalink.beans.StaticClass;
-
-import java.time.Period;
+package theory;
 
 public class NestedC {
 

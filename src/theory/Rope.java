@@ -1,7 +1,4 @@
-package questions;
-
-import javax.swing.*;
-import java.util.Comparator;
+package theory;
 
 public class Rope implements Comparable<Rope> {
     public static int length = 0;

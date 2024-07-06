@@ -1,4 +1,4 @@
-package questions;
+package theory;
 
 public class Comp {
 

@@ -1,4 +1,4 @@
-package questions;
+package theory;
 
 public record MyRecord(String name, Integer number) implements MyInterface{
 

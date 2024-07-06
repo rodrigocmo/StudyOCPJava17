@@ -1,8 +1,6 @@
-package questions;
+package theory;
 
-import java.io.IOException;
 import java.util.*;
-import java.util.stream.IntStream;
 import java.util.stream.Stream;
 
 public class CollectionsClass {
