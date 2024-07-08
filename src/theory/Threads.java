@@ -11,7 +11,7 @@ import java.util.stream.Stream;
 public class Threads {
     public static void main(String[] args) {
 
-        Collectors.toConcurrentMap(String::length,v->v,(v1,v2)-> v1 + "," + v2);
+        Collectors.toConcurrentMap((String a)-> a.length(),v->v,(v1,v2)-> v1 + "," + v2);
         Collectors.groupingByConcurrent(String::length); // as duas collections que suportam parallel reduction no collect
 
         var main = Thread.currentThread();
