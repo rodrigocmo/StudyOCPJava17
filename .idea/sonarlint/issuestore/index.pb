@@ -23,3 +23,5 @@ a
 1src/theory/services/ServiceProviderInterface.java,b\8\b88e558ec503c0c5e24ce9a531cbc2b6d4e54425
 G
 src/theory/Threads.java,d\1\d12f2b7eef3ea01af2c69657e262776d88252399
+W
+'src/theory/services/ServiceLocator.java,a\d\ade295425bcf8f2161b67da7395d12c64a9944ff
