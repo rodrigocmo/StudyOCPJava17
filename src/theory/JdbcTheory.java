@@ -48,7 +48,8 @@ public class JdbcTheory {
         callOut.registerOutParameter(1, Types.VARCHAR);// torna o ?= na string opcional
         callOut.execute();
 
-        System.out.println(callOut.getInt("coluna"));
+        System.out.println(callOut.getInt("coluna") + callOut.getInt(1));
+
 
 
 

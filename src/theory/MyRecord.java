@@ -16,8 +16,14 @@ public MyRecord{
   }
 
 
-
+  //@Override public Integer number(){return 2;}
   @Override public Integer my() {
     return null;
   }
+
+  public static void main(String[] args) {
+    System.out.println(new MyRecord("Oi",1).number());
+  }
+
+
 }
