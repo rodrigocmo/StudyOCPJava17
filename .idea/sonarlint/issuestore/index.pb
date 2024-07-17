@@ -41,3 +41,11 @@ D
 src/theory/Test.java,6\f\6fb2202ac63c124ef0aab7bbffef36077e02863c
 M
 src/questions/breakbunny.java,0\4\04ce92825aab2a7f0502c084c6c63e026ea839d1
+G
+src/questions/Farm.java,0\7\07d1c4b86ff2cbec50d7cf764000d0bba75e93e1
+D
+src/theory/Comp.java,e\4\e4dc925d9aadb78b20677afa04bb2b1d98d689a6
+H
+src/theory/Compares.java,a\d\add815213d7d4a739c1b60c474c60a3962c34af6
+U
+%src/theory/exception/MultiCactch.java,5\0\5089947808d20608851f36937e33e77da4099dff

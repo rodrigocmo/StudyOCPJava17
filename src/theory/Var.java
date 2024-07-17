@@ -6,6 +6,7 @@ import java.time.temporal.ChronoUnit;
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
+import java.util.function.Consumer;
 
 public class Var {
 
@@ -16,6 +17,10 @@ public class Var {
         // you can't use var word for classes but remember java is case-sensitive
         // var can't be null with the type is primitive
         // var can't be used to multiple assign like var name =1, name2 =2;
+        //pode ser usado como tipo de parametro em lambda
+        Consumer<String> printer = (var message) -> {
+            System.out.println(message);
+        };
 
     }
 

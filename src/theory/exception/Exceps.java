@@ -1,4 +1,4 @@
-package theory;
+package theory.exception;
 
 import java.io.IOException;
 
