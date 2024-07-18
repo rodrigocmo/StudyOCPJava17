@@ -3,8 +3,6 @@ C
 src/theory/Var.java,3\a\3a62d4c4962121489bf101364e1c6f3244e1fb7f
 I
 src/theory/Operators.java,7\a\7addc4afc28c40874e6383dd680abe9b46f7baea
-F
-src/theory/Exceps.java,2\9\29397cabdab6ea773f3901313e4fbdda14cba590
 P
  src/theory/CollectionsClass.java,4\2\4284ae068cb8360f3776a2ad963b6368e6a63038
 L
@@ -41,11 +39,11 @@ D
 src/theory/Test.java,6\f\6fb2202ac63c124ef0aab7bbffef36077e02863c
 M
 src/questions/breakbunny.java,0\4\04ce92825aab2a7f0502c084c6c63e026ea839d1
-G
-src/questions/Farm.java,0\7\07d1c4b86ff2cbec50d7cf764000d0bba75e93e1
 D
 src/theory/Comp.java,e\4\e4dc925d9aadb78b20677afa04bb2b1d98d689a6
 H
 src/theory/Compares.java,a\d\add815213d7d4a739c1b60c474c60a3962c34af6
 U
 %src/theory/exception/MultiCactch.java,5\0\5089947808d20608851f36937e33e77da4099dff
+X
+(src/theory/InferenciaDeTipoExemplos.java,7\5\7565addb66256e68edf529be6d5c26250fe9539a

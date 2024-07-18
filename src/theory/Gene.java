@@ -30,9 +30,6 @@ public class Gene {
 
         List<? super CharSequence> t = new ArrayList<>();
 
-
-
-
     }
 
     public <T>List<? extends Number> getNumbers(T t) {

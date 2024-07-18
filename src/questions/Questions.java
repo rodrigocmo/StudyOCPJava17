@@ -27,9 +27,5 @@ public class Questions extends Test {
         };
     }
 
-    void inferenciaDeTipo() {
-        //var points = new TreeSet<>();points.add(7);points.add(5);points.add(-4);points.forEach((Integer n)-> System.out.println(n));
-        // Nao compila pois voce esta criando um treeset de object, por mais que possa add ints voce itera sobre Object
-    }
 
 }
