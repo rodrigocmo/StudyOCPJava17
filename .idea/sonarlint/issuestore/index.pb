@@ -47,3 +47,7 @@ U
 %src/theory/exception/MultiCactch.java,5\0\5089947808d20608851f36937e33e77da4099dff
 X
 (src/theory/InferenciaDeTipoExemplos.java,7\5\7565addb66256e68edf529be6d5c26250fe9539a
+P
+ src/theory/Files/FilesTests.java,7\c\7ce10b0ad623dd4452b14a64fc9fbea051367239
+N
+src/theory/Files/IoStream.java,c\b\cb033e64eaebc0ecb842a3de23e18acba01d52ec
