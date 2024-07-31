@@ -25,8 +25,6 @@ W
 'src/theory/services/ServiceLocator.java,a\d\ade295425bcf8f2161b67da7395d12c64a9944ff
 J
 src/theory/JdbcTheory.java,5\4\54e8b71bf0e15da914579a02d76a7abf90793a1c
-J
-src/theory/FilesTests.java,3\e\3ead97d265382bb3db5c26f30ba6a1baccbd8ad8
 G
 src/theory/Formats.java,4\7\47fec183d15d7895276eeb31587438c20b1f0836
 L
